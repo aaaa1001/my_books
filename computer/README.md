@@ -19,7 +19,11 @@
 * [Deep Learning Tutorial](http://deeplearning.net/tutorial/contents.html) | [PDF](http://deeplearning.net/tutorial/deeplearning.pdf)  
 * [Booklist](http://machinelearningmastery.com/deep-learning-books/) - Does not have download links, but still provides a list.  
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)  
-* http://deeplearning4j.org/deeplearningpapers.html  
+* [Deeplearning4j](http://deeplearning4j.org/) | http://deeplearning4j.org/deeplearningpapers.html  
 * http://neuralnetworksanddeeplearning.com/  
 * https://karpathy.github.io/  
 * http://cs231n.github.io/  
+
+
+### Erlang  
+* http://joearms.github.io/
